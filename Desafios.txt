@@ -1,5 +1,0 @@
-OK 1 - Antecessor e sucessor
-OK   2 - Gerador de números aleatórios
-OK   3 - Conversor de moedas
-OK   4 - Conversor de dólares usando API 
-   5 - Analisando um número real
